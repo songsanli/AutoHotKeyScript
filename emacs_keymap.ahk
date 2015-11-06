@@ -85,7 +85,7 @@ backward_char()
 ; Evernote
 ;==========================
 
-#IfWinActive ahk_exe Evernote.ext
+#IfWinActive ahk_exe Evernote.exe
 ; Emacs mapping
 ^f::
   forward_char()
